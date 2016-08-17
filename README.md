@@ -1,1 +1,2 @@
 # tesztRepo
+# ide irok valamit
